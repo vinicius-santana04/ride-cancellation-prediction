@@ -1,12 +1,12 @@
-# 🚗 Análise e Previsão de Cancelamento de Corridas da Uber (2024)
+# 🚗 Análise e Previsão de Cancelamento de Corridas da **** (2024)
 
 ## 📄 Descrição do Projeto
 
-Este projeto utiliza um conjunto de dados de corridas da Uber do ano de 2024 para desenvolver um modelo de Machine Learning capaz de prever a probabilidade de uma nova reserva de viagem ser cancelada. O objetivo é transformar dados brutos em insights acionáveis e em uma ferramenta preditiva que possa, futuramente, ser usada para otimizar operações, melhorar a alocação de motoristas e aprimorar a experiência do usuário.
+Este projeto utiliza um conjunto de dados de corridas da **** do ano de 2024 para desenvolver um modelo de Machine Learning capaz de prever a probabilidade de uma nova reserva de viagem ser cancelada. O objetivo é transformar dados brutos em insights acionáveis e em uma ferramenta preditiva que possa, futuramente, ser usada para otimizar operações, melhorar a alocação de motoristas e aprimorar a experiência do usuário.
 
 ## 📊 Contexto do Dataset
 
-O dataset utilizado, "Uber Ride Analytics Dataset 2024", contém informações detalhadas sobre **148.77 mil reservas**.
+O dataset utilizado, "**** Ride Analytics Dataset 2024", contém informações detalhadas sobre **148.77 mil reservas**.
 
   * **Taxa de Sucesso:** 65.96%
   * **Taxa de Cancelamento:** 25%
@@ -17,7 +17,7 @@ Ele inclui colunas como status da reserva, tipo de veículo, locais, tempo de vi
 
 ## 🎯 Problema de Negócio
 
-Cancelamentos de corridas representam uma ineficiência significativa para plataformas como a Uber, resultando em:
+Cancelamentos de corridas representam uma ineficiência significativa para plataformas como a ****, resultando em:
 
   * Perda de tempo e combustível para os motoristas.
   * Experiência frustrante para os clientes.
@@ -37,10 +37,10 @@ Este projeto foi desenvolvido utilizando Python 3 e as seguintes bibliotecas:
 ## 📁 Estrutura do Projeto
 
 ```
-uber-cancellation-prediction/
+ride-cancellation-prediction/
 │
 ├── data/
-│   └── uber_dataset_2024.csv      # O dataset bruto
+│   └── ride_dataset_2024.csv      # O dataset bruto
 │
 ├── notebooks/
 │   ├── 01_Analise_Exploratoria.ipynb  # Análise inicial e visualização dos dados
@@ -57,8 +57,8 @@ Siga os passos abaixo para configurar e executar este projeto localmente.
 1.  **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/vinicius-santana04/uber-cancellation-prediction.git
-    cd uber-cancellation-prediction
+    git clone https://github.com/vinicius-santana04/ride-cancellation-prediction.git
+    cd ride-cancellation-prediction
     ```
 
 2.  **Crie um ambiente virtual (recomendado):**
@@ -102,5 +102,6 @@ O fluxo de trabalho deste projeto seguiu as seguintes etapas:
 ## ✍️ Autor
 
   * **[Vinícius Santana]**
+
 
 -----
